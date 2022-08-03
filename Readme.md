@@ -46,9 +46,6 @@
   <br/>
   <p align="Center">
     <a><img alt="Krishna's Github Stats" src="https://github-readme-stats.vercel.app/api?username=LeelaKrishna-R&show_icons=true&theme=radical" /></a>
-  <a><img alt="Krishna's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeelaKrishna-R&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=false&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 <br/>
 <br/>
 <a><img alt="Krishna's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=LeelaKrishna-R&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"/></a>
