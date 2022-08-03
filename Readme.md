@@ -1,14 +1,16 @@
 <a href="#"><img width="100%" height="auto" src="http://d1a2e1vehwcxq9.cloudfront.net/news/2015/12/gifts-for-anime-nerds-golden-time-2d-kun.png" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://www.clipartmax.com/png/full/283-2837537_a-smiling-minion-raises-one-hand-to-wave-hello-thomas-edison-gif.png" width="1s0px">, I'm Sarthak Sharma</h1>
-<h3 align="center">A passionate Developer from India.</h3>
+<h1 align="center">Hi <img src="https://www.clipartmax.com/png/full/283-2837537_a-smiling-minion-raises-one-hand-to-wave-hello-thomas-edison-gif.png" width="1s0px">, I'm Leela Krishna</h1>
+<h3 align="center">Fullstack developer from India 🌏</h3>
 
 
 ## 🎊 About Me
 
-- ☕ I’m currently working on **[Sounder4](https://github.com/Sarthak061/Sounder4)**
+- ☕ I’m currently working on **[Shero](https://sherobot.xyz/)**
 
-- 🌿 I’m currently learning **ReactJS**
+-  💻 Intern at [Diamondpick](https://www.diamondpick.com/), Deployed with [Tata Elxsi](https://www.tataelxsi.com/)
+
+- 🌿 I’m currently learning **React JS**
 
 - 🍰 I’m looking to collaborate on **OpenSource Projects**
 
@@ -20,7 +22,7 @@
 
 - 💼 Lets Connect on <a href="https://www.linkedin.com/in/leelakrishna-ravuri-a263b9172/"> **LinkedIn!** </a>
 
-- ⚡ Fun fact **I like discord way too much.**
+- ⚡ Fun fact **I like Discord way too much.**
 
 ## 🚀 Languages and Tools:
 
@@ -65,4 +67,5 @@
 <a href = "https://www.linkedin.com/in/leelakrishna-ravuri-a263b9172/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/leelakr90136330"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/rl_krishna99/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://discordapp.com/users/674648258391441421"> <img src="https://imgur.com/R5O8bji"> </a>
 </p>
