@@ -48,7 +48,7 @@
     <a><img alt="Krishna's Github Stats" src="https://github-readme-stats.vercel.app/api?username=LeelaKrishna-R&show_icons=true&theme=radical" /></a>
 <br/>
 <br/>
-<a><img alt="Krishna's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=LeelaKrishna-R&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"/></a>
+<a><img alt="Krishna's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=LeelaKrishna-R&theme=github"/></a>
 </p>
 <br/>
 <br/>
