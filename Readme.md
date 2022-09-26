@@ -60,7 +60,6 @@
 <a href = "https://discordapp.com/users/674648258391441421"> <img src="https://cdn.discordapp.com/attachments/938300229575381052/1004417058466971759/ookkkk.png"> </a></a>
 </p>
 
-## Find me here:
-### Support Server :label:
+## ❓Find me here:
 <a href="https://discord.gg/supreme"><img src="https://cdn.discordapp.com/attachments/922564338647179374/1024027554694299738/unknown.png"/></a>
 <br><br>
