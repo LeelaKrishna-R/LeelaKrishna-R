@@ -59,8 +59,3 @@
 <a href = "https://www.instagram.com/rl_krishna99/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://discordapp.com/users/674648258391441421"> <img src="https://cdn.discordapp.com/attachments/938300229575381052/1004417058466971759/ookkkk.png"> </a></a>
 </p>
-
-## Discord 
-<p allign = 'center'>
-    <a href="https://github.com/LeelaKrishna-R/"><img src="https://discord-readme-badge.vercel.app/api?id=674648258391441421"/>
-</a>
