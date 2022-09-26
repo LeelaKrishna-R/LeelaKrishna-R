@@ -44,13 +44,9 @@
   <br/>
   <p align="left">
     <a><img alt="Krishna's Github Stats" src="https://github-readme-stats.vercel.app/api?username=LeelaKrishna-R&count_private=true&show_icons=true&theme=tokyonight" /></a>
-<br/>
-<br/>
 </p>
   <p align="right">
-    <a><img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight" /></a>
-<br/>
-<br/>
+    <a><img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeelaKrishna-R&layout=compact&theme=tokyonight" /></a>
 </p>
 
 
