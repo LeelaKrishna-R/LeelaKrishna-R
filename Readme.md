@@ -45,7 +45,7 @@
 
   <br/>
   <p align="Center">
-    <a><img alt="Krishna's Github Stats" src="https://github-readme-stats.vercel.app/api?username=LeelaKrishna-R&show_icons=true&theme=radical&include_all_commits=true&count_private=true" /></a>
+    <a><img alt="Krishna's Github Stats" src="https://github-readme-stats.vercel.app/api?username=LeelaKrishna-R&count_private=true&show_icons=true" /></a>
 <br/>
 <br/>
 <a><img alt="Krishna's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=LeelaKrishna-R&theme=github"/></a>
