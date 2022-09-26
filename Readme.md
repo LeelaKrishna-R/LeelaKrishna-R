@@ -48,11 +48,6 @@
     <br/>
 </p>
 
-<p align='right'>
-<a><img alt="Krishna's Activity Graph" src="https://github-readme-stats.vercel.app/api?username=LeelaKrishna-R&count_private=true&show_icons=true&theme=tokyonight"/></a>
-</p>
-<br/>
-
 <p align='Center'>
 <a><img alt="Krishna's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=LeelaKrishna-R&count_private=true&theme=tokyo-night"/></a>
 </p>
