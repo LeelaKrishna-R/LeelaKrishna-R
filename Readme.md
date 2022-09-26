@@ -6,13 +6,11 @@
 
 ## 🎊 About Me
 
-- ☕ I’m currently working on **[Shero](https://sherobot.xyz/)**
+- ☕ I’m currently working for **[Shero](https://sherobot.xyz/)** and [Supreme](https://github.com/supreme-discord) [Discord Server](https://discord.gg/supreme)
 
 -  💻 Intern at [Diamondpick](https://www.diamondpick.com/), Deployed with [Tata Elxsi](https://www.tataelxsi.com/)
 
-- 🌿 I’m currently learning **React JS**
-
-- 🍰 I’m looking to collaborate on **OpenSource Projects**
+- 🌿 I’m currently learning **React JS** and **.NET**
 
 - 👨‍💻 All of my projects are available at **[My Github](https://github.com/LeelaKrishna-R)**
 
