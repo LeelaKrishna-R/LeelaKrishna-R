@@ -42,10 +42,13 @@
 ## 📊 Stats
 
   <br/>
-  <p align="Center">
+  <p align="left">
     <a><img alt="Krishna's Github Stats" src="https://github-readme-stats.vercel.app/api?username=LeelaKrishna-R&count_private=true&show_icons=true&theme=tokyonight" /></a>
 <br/>
 <br/>
+</p>
+
+<p align='Center'>
 <a><img alt="Krishna's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=LeelaKrishna-R&count_private=true&theme=tokyo-night"/></a>
 </p>
 <br/>
