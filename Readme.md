@@ -1,66 +1,42 @@
-<a href="#"><img width="100%" height="auto" src="http://d1a2e1vehwcxq9.cloudfront.net/news/2015/12/gifts-for-anime-nerds-golden-time-2d-kun.png" height="175px"/></a>
+<h1 align="center">
+  <b>Leelakrishna Ravuri</b>
+</h1>
 
-<h1 align="center">Hi <img src="https://www.clipartmax.com/png/full/283-2837537_a-smiling-minion-raises-one-hand-to-wave-hello-thomas-edison-gif.png" width="1s0px">, I'm Leela Krishna</h1>
-<h3 align="center">Part time Freelancer</h3>
+Heya! I'm Leelakrishna, part time developer from India. Pursuing career at [Diamondpick](https://www.diamondpick.com/) and gathering programming skills through small projects on the side. You can find me mostly on discord at [supreme](https://discord.gg/supreme)
 
-## 🎧 Spotify
+<br>
+<p><img align="right" src="https://github.com/LeelaKrishna-R/LeelaKrishna-R/blob/master/animation.gif"/></p>
+<p>
+<div align="center">
+  <img src="https://img.shields.io/badge/-JavaScript-c58545?style=for-the-badge&logo=JavaScript&logoColor=c58545&labelColor=282828">
+  <img src="https://img.shields.io/badge/-HTML-d1a01f?style=for-the-badge&logo=html5&logoColor=d1a01f&labelColor=282828">
+  <img src="https://img.shields.io/badge/-Node.Js-98b982?style=for-the-badge&logo=node.js&logoColor=98b982&labelColor=282828">
+</div>
+</p>
+
+```javascript
+class Details {
+  constructor(name, location, email, instagram, discord) {
+    this.name = Leelakrishna Ravuri;
+    this.location = India;
+    this.email = leelakrishnaravuri999@gmail.com;
+    this.instagram = rl_krishna99;
+    this.discord = Krishna.#3745
+  }
+}
+
+const details = new Details()
+console.log(details)
+```
+
+## Statistics
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=pz4y1pm74kjnteb9mz0lglgik&cover_image=false&theme=default)](https://github.com/kittinan/spotify-github-profile)
-
-## 🎊 About Me
-
-- ☕ I’m currently working for **[Shero](https://sherobot.xyz/)** and [Supreme](https://github.com/supreme-discord) [Discord Server](https://discord.gg/supreme)
-
--  💻 Intern at [Diamondpick](https://www.diamondpick.com/), Deployed with [Tata Elxsi](https://www.tataelxsi.com/)
-
-- 🌿 I’m currently learning **React JS** and **.NET**
-
-- 👨‍💻 All of my projects are available at **[My Github](https://github.com/LeelaKrishna-R)**
-
-- 📫 You can reach me via <a href="mailto:leelakrishnaravuri999@gmail.com"> **mail** </a>
-
-- 🤝 Follow me on <a href="https://www.instagram.com/rl_krishna99/"> **Instagram** </a>
-
-- 💼 Lets Connect on <a href="https://www.linkedin.com/in/leelakrishna-ravuri-a263b9172/"> **LinkedIn!** </a>
-
-- ⚡ Fun fact **I like Discord way too much.**
-
-## 🚀 Languages and Tools:
-
-<p align="left"> 
-    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-        <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
-
-</p>
-
-<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
 <br/>
-
-## 📊 Stats
-
-  <br/>
-  <p align="left">
-    <a><img alt="Krishna's Github Stats" src="https://github-readme-stats.vercel.app/api?username=LeelaKrishna-R&count_private=true&show_icons=true&theme=tokyonight" /></a>
-    <br/>
-    <br/>
-</p>
-
-<p align='Center'>
-<a><img alt="Krishna's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=LeelaKrishna-R&count_private=true&theme=tokyo-night"/></a>
-</p>
-<br/>
-<br/>
-
-## Let's stay connected:
 <p align="left">
-
-<a href = "https://www.linkedin.com/in/leelakrishna-ravuri-a263b9172/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/leelakr90136330"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/rl_krishna99/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://discordapp.com/users/674648258391441421"> <img src="https://cdn.discordapp.com/attachments/938300229575381052/1004417058466971759/ookkkk.png"> </a></a>
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=LeelaKrishna-R&show_icons=true&theme=gruvbox&hide_border=true&count_private=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=LeelaKrishna-R&theme=gruvbox&hide_border=true&count_private=true" />
+  </a>
 </p>
+<br>
+
+![Krishna's Activity Graph](https://activity-graph.herokuapp.com/graph?username=LeelaKrishna-R&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)
