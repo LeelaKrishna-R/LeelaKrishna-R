@@ -1,8 +1,10 @@
 <a href="#"><img width="100%" height="auto" src="http://d1a2e1vehwcxq9.cloudfront.net/news/2015/12/gifts-for-anime-nerds-golden-time-2d-kun.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://www.clipartmax.com/png/full/283-2837537_a-smiling-minion-raises-one-hand-to-wave-hello-thomas-edison-gif.png" width="1s0px">, I'm Leela Krishna</h1>
-<h3 align="center">Fullstack developer from India 🌏</h3>
+<h3 align="center">Part time Freelancer</h3>
 
+## 🎧 Spotify
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=pz4y1pm74kjnteb9mz0lglgik&cover_image=false&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
 ## 🎊 About Me
 
