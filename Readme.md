@@ -41,3 +41,12 @@ console.log(details)
 <br>
 
 ![Krishna's Activity Graph](https://activity-graph.herokuapp.com/graph?username=LeelaKrishna-R&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)
+
+## Let's stay connected:
+<p align="left">
+
+<a href = "https://www.linkedin.com/in/leelakrishna-ravuri-a263b9172/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/leelakr90136330"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.instagram.com/rl_krishna99/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://discordapp.com/users/674648258391441421"> <img src="https://cdn.discordapp.com/attachments/938300229575381052/1004417058466971759/ookkkk.png"> </a></a>
+</p>
