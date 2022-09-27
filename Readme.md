@@ -5,7 +5,6 @@
 Heya! I'm Leelakrishna, part time developer from India. Pursuing career at [Diamondpick](https://www.diamondpick.com/) and gathering programming skills through small projects on the side. You can find me mostly on discord at [supreme](https://discord.gg/supreme)
 
 <br>
-<p><img align="right" src="https://github.com/LeelaKrishna-R/LeelaKrishna-R/blob/master/animation.gif"/></p>
 <p>
 <div align="center">
   <img src="https://img.shields.io/badge/-JavaScript-c58545?style=for-the-badge&logo=JavaScript&logoColor=c58545&labelColor=282828">
@@ -28,10 +27,12 @@ class Details {
 const details = new Details()
 console.log(details)
 ```
+## Listening to
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=pz4y1pm74kjnteb9mz0lglgik&cover_image=false&theme=default)](https://github.com/kittinan/spotify-github-profile)
+
+<br/>
 
 ## Statistics
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=pz4y1pm74kjnteb9mz0lglgik&cover_image=false&theme=default)](https://github.com/kittinan/spotify-github-profile)
-<br/>
 <p align="left">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=LeelaKrishna-R&show_icons=true&theme=gruvbox&hide_border=true&count_private=true" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=LeelaKrishna-R&theme=gruvbox&hide_border=true&count_private=true" />
