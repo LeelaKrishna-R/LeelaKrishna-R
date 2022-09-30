@@ -1,5 +1,7 @@
 <h1 align="center">
   <b>Leelakrishna Ravuri</b>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=LeelaKrishna-R&color=c58545&style=plastic">
 </h1>
 
 Heya! I'm Leelakrishna, part time developer from India. Pursuing career at [Diamondpick](https://www.diamondpick.com/) and gathering programming skills through small projects on the side. You can find me mostly on discord at [supreme](https://discord.gg/supreme)
