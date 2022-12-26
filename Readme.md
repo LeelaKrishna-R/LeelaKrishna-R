@@ -42,6 +42,7 @@ console.log(details)
 </p>
 <br>
 
+[![Krishna's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=LeelaKrishna-R&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://github.com/LeelaKrishna-R)
 
 ## Let's stay connected:
 <p align="left">
