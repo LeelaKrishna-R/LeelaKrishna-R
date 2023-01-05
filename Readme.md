@@ -21,7 +21,7 @@ class Details {
     this.name = Leelakrishna Ravuri;
     this.location = India;
     this.email = leelakrishnaravuri999@gmail.com;
-    this.instagram = rl_krishna99;
+    this.instagram = waitngforyoueversince;
     this.discord = Krishna.#3745
   }
 }
@@ -49,6 +49,6 @@ console.log(details)
 
 <a href = "https://www.linkedin.com/in/leelakrishna-ravuri-a263b9172/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/leelakr90136330"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/rl_krishna99/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.instagram.com/waitngforyoueversince/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://discordapp.com/users/674648258391441421"> <img src="https://cdn.discordapp.com/attachments/938300229575381052/1004417058466971759/ookkkk.png"> </a></a>
 </p>
