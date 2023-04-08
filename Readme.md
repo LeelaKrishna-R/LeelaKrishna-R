@@ -37,7 +37,7 @@ console.log(details)
 ## Statistics
 <p align="left">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=LeelaKrishna-R&show_icons=true&theme=gruvbox&hide_border=true&count_private=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=LeelaKrishna-R&theme=gruvbox&hide_border=true&count_private=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=LeelaKrishna-R&show_icons=true&theme=gruvbox&hide_border=true&count_private=true" />
   </a>
 </p>
 <br>
