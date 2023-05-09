@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=LeelaKrishna-R&color=c58545&style=plastic">
 </h1>
 
-Heya! I'm Leelakrishna, part time developer from India. You can find me mostly on discord at [supreme](https://discord.gg/supreme)
+Heya! I'm Leelakrishna, part time developer from India. You can find me mostly on discord working [@sherobot](https://sherobot.xyz)
 
 <br>
 <p>
