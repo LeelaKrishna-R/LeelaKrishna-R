@@ -20,9 +20,9 @@ class Details {
   constructor(name, location, email, instagram, discord) {
     this.name = Leelakrishna Ravuri;
     this.location = India;
-    this.email = leelakrishnaravuri999@gmail.com;
+    this.email = email@krishnar.xyz;
     this.instagram = waitngforyoueversince;
-    this.discord = Krishna.#3745
+    this.discord = krishna.
   }
 }
 
@@ -30,13 +30,14 @@ const details = new Details()
 console.log(details)
 ```
 ## Listening to
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=pz4y1pm74kjnteb9mz0lglgik&cover_image=false&theme=default)](https://github.com/kittinan/spotify-github-profile)
-
+<p align = "middle">
+<img width = '49.5%' src="https://spotify-github-profile.vercel.app/api/view?uid=pz4y1pm74kjnteb9mz0lglgik&cover_image=false&theme=default"/>
+</a>
+</p>
 <br/>
 
 ## Statistics
-<p align="left">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=LeelaKrishna-R&show_icons=true&theme=gruvbox&hide_border=true&count_private=true" />
+<p align="middle">
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=LeelaKrishna-R&show_icons=true&theme=gruvbox&hide_border=true&count_private=true" />
   </a>
 </p>
@@ -47,7 +48,7 @@ console.log(details)
 ## Let's stay connected:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/leelakrishna-ravuri-a263b9172/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/leelakrishnaravuri/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/leelakr90136330"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/waitngforyoueversince/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://discordapp.com/users/674648258391441421"> <img src="https://cdn.discordapp.com/attachments/938300229575381052/1004417058466971759/ookkkk.png"> </a></a>
