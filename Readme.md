@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=LeelaKrishna-R&color=c58545&style=plastic">
 </h1>
 
-Heya! I'm Leelakrishna, part time developer from India. You can find me mostly on discord working [@sherobot](https://sherobot.xyz)
+Heya! I'm Leelakrishna, part-time developer from India. You can find me mostly on Discord working [@sherobot](https://sherobot.xyz)
 
 <br>
 <p>
@@ -18,28 +18,27 @@ Heya! I'm Leelakrishna, part time developer from India. You can find me mostly o
 ```javascript
 class Details {
   constructor(name, location, email, instagram, discord) {
-    this.name = Leelakrishna Ravuri;
-    this.location = India;
-    this.email = email@krishnar.xyz;
-    this.instagram = krishhbyte;
-    this.discord = krishna.
+    this.name = "Leelakrishna Ravuri";
+    this.location = "India";
+    this.email = "email@krishnar.xyz";
+    this.instagram = "krishhbyte";
+    this.discord = "krishna";
   }
 }
 
 const details = new Details()
 console.log(details)
 ```
+
 ## Listening to
-<p align = "middle">
-<img width = '49.5%' src="https://spotify-github-profile.vercel.app/api/view?uid=pz4y1pm74kjnteb9mz0lglgik&cover_image=false&theme=default"/>
-</a>
+<p align="middle">
+  <img width="49.5%" src="https://spotify-github-profile.vercel.app/api/view.svg?uid=pz4y1pm74kjnteb9mz0lglgik&redirect=true&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false"/>
 </p>
 <br/>
 
 ## Statistics
 <p align="middle">
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=LeelaKrishna-R&show_icons=true&theme=gruvbox&hide_border=true&count_private=true" />
-  </a>
 </p>
 <br>
 
@@ -47,9 +46,7 @@ console.log(details)
 
 ## Let's stay connected:
 <p align="left">
-
-<a href = "https://www.linkedin.com/in/leelakrishnaravuri/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/leelakr90136330"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/waitngforyoueversince/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://discordapp.com/users/674648258391441421"> <img src="https://cdn.discordapp.com/attachments/938300229575381052/1004417058466971759/ookkkk.png"> </a></a>
+  <a href="https://www.linkedin.com/in/leelakrishnaravuri/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+  <a href="https://twitter.com/leelakr90136330"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+  <a href="https://www.instagram.com/waitngforyoueversince/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 </p>
