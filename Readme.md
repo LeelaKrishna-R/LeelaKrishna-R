@@ -21,7 +21,7 @@ class Details {
     this.name = Leelakrishna Ravuri;
     this.location = India;
     this.email = email@krishnar.xyz;
-    this.instagram = waitngforyoueversince;
+    this.instagram = krishhbyte;
     this.discord = krishna.
   }
 }
