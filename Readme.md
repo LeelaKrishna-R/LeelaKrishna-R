@@ -4,7 +4,8 @@
   <img src="https://komarev.com/ghpvc/?username=LeelaKrishna-R&color=c58545&style=plastic">
 </h1>
 
-Heya! I'm Leelakrishna, part-time developer from India. You can find me mostly on Discord working [@sherobot](https://sherobot.xyz)
+Holaaaaaa! Leelakrishna hereeeee. 
+I'm a fulltime student at University of North Texas. I'm currently doing my masters in Artificial Intelligence. I love to code, hate to fix bugs hehehehe and most of my works are private, I started my programming career with my first discord bot [@sherobot](https://sherobot.xyz)
 
 <br>
 <p>
@@ -32,7 +33,7 @@ console.log(details)
 
 ## Listening to
 <p align="middle">
-  <img width="49.5%" src="https://spotify-github-profile.vercel.app/api/view.svg?uid=pz4y1pm74kjnteb9mz0lglgik&redirect=true&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false"/>
+  <img width="49.5%" src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=pz4y1pm74kjnteb9mz0lglgik&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false"/>
 </p>
 <br/>
 
