@@ -1,50 +1,62 @@
 <h1 align="center">
-  <b>Leelakrishna Ravuri</b>
+  <b><a href="https://krishnar.xyz" target="_blank" style="text-decoration: none; color: inherit;">Leelakrishna Ravuri</a></b>
   <br>
-  <img src="https://komarev.com/ghpvc/?username=LeelaKrishna-R&color=c58545&style=plastic">
+  <img src="https://komarev.com/ghpvc/?username=LeelaKrishna-R&color=c58545&style=plastic" alt="profile views">
 </h1>
 
-Holaaaaaa! Leelakrishna hereeeee, buuuut you can call me krishna or krishyy
-I'm a fulltime student at [University of North Texas](https://www.unt.edu/index.html) . I'm currently doing my masters in Artificial Intelligence. You can find the course ciricullum [here](https://www.unt.edu/academics/programs/artificial-intelligence-masters.html) . I'm a self taught developer and certified geek. Not to bragg but I love to code and hate to fix bugs hehehehe and most of my works are private like me 😩, I started my programming career with my first discord bot [@sherobot](https://sherobot.xyz)
+---
 
-<br>
-<p>
-<div align="center">
-  <img src="https://img.shields.io/badge/-JavaScript-c58545?style=for-the-badge&logo=JavaScript&logoColor=c58545&labelColor=282828">
-  <img src="https://img.shields.io/badge/-HTML-d1a01f?style=for-the-badge&logo=html5&logoColor=d1a01f&labelColor=282828">
-  <img src="https://img.shields.io/badge/-Node.Js-98b982?style=for-the-badge&logo=node.js&logoColor=98b982&labelColor=282828">
-</div>
+## 👋 About Me
+- 🎓 Master’s student in **Artificial Intelligence @ University of North Texas**
+- 🔌 Background in **Electronics & Communication Engineering (B.Tech)**
+- 💻 **Self-taught developer**, learning programming and modern tech from the internet
+- 🤖 Interests: **AI/ML · System Integration · Discord Bots · Full-stack**
+- ⚡ I love to code and (reluctantly) fix bugs 😅
+
+---
+
+## 📌 Featured Repositories & Languages
+
+<p align="center">
+  <!-- Repo pin (left) -->
+  <a href="https://github.com/LeelaKrishna-R/Dynamic-Trivia-Content-Generation" target="_blank">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=LeelaKrishna-R&repo=Dynamic-Trivia-Content-Generation&theme=gruvbox&hide_border=true&bg_color=282828" alt="Dynamic-Trivia-Content-Generation" />
+  </a>
+  <!-- Most used languages (right) -->
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeelaKrishna-R&layout=compact&hide_border=true&theme=gruvbox&bg_color=282828&langs_count=6&hide=jupyter%20notebook,tex,css,php" alt="Top Languages" />
 </p>
 
-```javascript
-class Details {
-  constructor(name, education, socials) {
-    this.name = "Leelakrishna Ravuri";
-    this.location = "Denton, Texas";
-    this.education = "Masters at UNT"
-    this.linkedIn = "leelakrishnaravuri"
-    this.email = "email@krishnar.xyz";
-    this.instagram = "krishhbyte";
-    this.discord = "krishna.";
-  }
-}
+---
 
-const details = new Details()
-console.log(details)
-```
+## 🧑‍💻 Statistics
 
-## Statistics
-<p align="middle">
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=LeelaKrishna-R&show_icons=true&theme=gruvbox&hide_border=true&count_private=true" />
+<p align="center">
+  <!-- Overall GitHub stats (left) -->
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=LeelaKrishna-R&show_icons=true&count_private=true&theme=gruvbox&hide_border=true&hide=issues,contribs&bg_color=282828" alt="GitHub Stats" />
+  <!-- Streak stats (right) -->
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com?user=LeelaKrishna-R&theme=gruvbox&hide_border=true&background=282828" alt="GitHub Streak" />
 </p>
-<br>
 
-[![Krishna's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LeelaKrishna-R&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://github.com/LeelaKrishna-R)
+---
 
-## Let's stay connected:
+## 📈 Activity Graph
+
+[![Krishna's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LeelaKrishna-R&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://github.com/LeelaKrishna-R)
+
+---
+
+## 🔗 Let's Stay Connected
 <p align="left">
-  <a href="https://www.linkedin.com/in/leelakrishnaravuri/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-  <a href="https://twitter.com/leelakr90136330"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-  <a href="https://www.instagram.com/waitngforyoueversince/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-  <a href ="mailto:email@krishnar.xyz"><img src="https://img.icons8.com/?id=37246&format=png"/></a>
+  <a href="https://www.linkedin.com/in/leelakrishnaravuri/" title="LinkedIn">
+    <img alt="LinkedIn" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
+  </a>
+  <a href="https://twitter.com/leelakr90136330" title="Twitter">
+    <img alt="Twitter" src="https://img.icons8.com/fluent/48/000000/twitter.png"/>
+  </a>
+  <a href="https://www.instagram.com/waitngforyoueversince/" title="Instagram">
+    <img alt="Instagram" src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>
+  </a>
+  <a href="mailto:email@krishnar.xyz" title="Email">
+    <img alt="Email" src="https://img.icons8.com/?id=37246&format=png"/>
+  </a>
 </p>
