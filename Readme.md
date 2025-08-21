@@ -7,11 +7,15 @@
 ---
 
 ## 👋 About Me
-- 🎓 Master’s student in **Artificial Intelligence @ University of North Texas**
-- 🔌 Background in **Electronics & Communication Engineering (B.Tech)**
-- 💻 **Self-taught developer**, learning programming and modern tech from the internet
-- 🤖 Interests: **AI/ML · System Integration · Discord Bots · Full-stack**
-- ⚡ I love to code and (reluctantly) fix bugs 😅
+<p align="left">
+  <img align="right" src="https://in.pinterest.com/pin/4574037117727912/" width="250" />
+  
+- 🎓 Master’s student in **Artificial Intelligence @ University of North Texas**  
+- 🔌 Background in **Electronics & Communication Engineering (B.Tech)**  
+- 💻 **Self-taught developer**, learning programming and modern tech from the internet  
+- 🤖 Interests: **AI/ML · System Integration · Discord Bots · Full-stack**  
+- ⚡ I love to code and (reluctantly) fix bugs 😅  
+</p>
 
 ---
 
