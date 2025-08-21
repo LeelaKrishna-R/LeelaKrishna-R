@@ -8,7 +8,7 @@
 
 ## 👋 About Me
 <p align="left">
-  <img align="right" src="https://in.pinterest.com/pin/4574037117727912/" width="250" />
+  <img align="right" src="https://github.com/LeelaKrishna-R/LeelaKrishna-R/blob/master/catImg.png" alt="Profile Image" width="250" style="border-radius: 50%;"/>
   
 - 🎓 Master’s student in **Artificial Intelligence @ University of North Texas**  
 - 🔌 Background in **Electronics & Communication Engineering (B.Tech)**  
@@ -19,14 +19,12 @@
 
 ---
 
-## 📌 Featured Repositories & Languages
+## 😎 Cool Stuff
 
 <p align="center">
-  <!-- Repo pin (left) -->
   <a href="https://github.com/LeelaKrishna-R/Dynamic-Trivia-Content-Generation" target="_blank">
     <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=LeelaKrishna-R&repo=Dynamic-Trivia-Content-Generation&theme=gruvbox&hide_border=true&bg_color=282828" alt="Dynamic-Trivia-Content-Generation" />
   </a>
-  <!-- Most used languages (right) -->
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeelaKrishna-R&layout=compact&hide_border=true&theme=gruvbox&bg_color=282828&langs_count=6&hide=jupyter%20notebook,tex,css,php" alt="Top Languages" />
 </p>
 
