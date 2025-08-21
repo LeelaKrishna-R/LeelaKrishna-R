@@ -11,7 +11,7 @@
   <img align="right" src="https://github.com/LeelaKrishna-R/LeelaKrishna-R/blob/master/catImg.png" alt="Profile Image" width="250" style="border-radius: 50%;"/>
   
 - 🎓 Master’s student in **Artificial Intelligence @ University of North Texas**  
-- 🔌 Background in **Electronics & Communication Engineering (B.Tech)**  
+- 🔌 Background in **Electronics & Communication Engineering (Bachelors)**  
 - 💻 **Self-taught developer**, learning programming and modern tech from the internet  
 - 🤖 Interests: **AI/ML · System Integration · Discord Bots · Full-stack**  
 - ⚡ I love to code and (reluctantly) fix bugs 😅  
