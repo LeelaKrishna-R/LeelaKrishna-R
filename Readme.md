@@ -4,8 +4,8 @@
   <img src="https://komarev.com/ghpvc/?username=LeelaKrishna-R&color=c58545&style=plastic">
 </h1>
 
-Holaaaaaa! Leelakrishna hereeeee. 
-I'm a fulltime student at University of North Texas. I'm currently doing my masters in Artificial Intelligence. I love to code, hate to fix bugs hehehehe and most of my works are private, I started my programming career with my first discord bot [@sherobot](https://sherobot.xyz)
+Holaaaaaa! Leelakrishna hereeeee, buuuut you can call me krishna or krishyy
+I'm a fulltime student at [University of North Texas](https://www.unt.edu/index.html) . I'm currently doing my masters in Artificial Intelligence. You can find the course ciricullum [here](https://www.unt.edu/academics/programs/artificial-intelligence-masters.html) . I'm a self taught developer and certified geek. Not to bragg but I love to code and hate to fix bugs hehehehe and most of my works are private like me 😩, I started my programming career with my first discord bot [@sherobot](https://sherobot.xyz)
 
 <br>
 <p>
@@ -18,24 +18,20 @@ I'm a fulltime student at University of North Texas. I'm currently doing my mast
 
 ```javascript
 class Details {
-  constructor(name, location, email, instagram, discord) {
+  constructor(name, education, socials, personalDetails) {
     this.name = "Leelakrishna Ravuri";
-    this.location = "India";
+    this.location = "Denton, Texas";
+    this.educationLevel = "Masters at UNT"
+    this.linkedIn = "leelakrishnaravuri"
     this.email = "email@krishnar.xyz";
     this.instagram = "krishhbyte";
-    this.discord = "krishna";
+    this.discord = "krishna.";
   }
 }
 
 const details = new Details()
 console.log(details)
 ```
-
-## Listening to
-<p align="middle">
-  <img width="49.5%" src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=pz4y1pm74kjnteb9mz0lglgik&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false"/>
-</p>
-<br/>
 
 ## Statistics
 <p align="middle">
@@ -50,4 +46,5 @@ console.log(details)
   <a href="https://www.linkedin.com/in/leelakrishnaravuri/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
   <a href="https://twitter.com/leelakr90136330"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
   <a href="https://www.instagram.com/waitngforyoueversince/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+  <a href ="mailto:email@krishnar.xyz"><img src="https://img.icons8.com/?id=37246&format=png"/></a>
 </p>
