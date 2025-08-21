@@ -18,10 +18,10 @@ I'm a fulltime student at [University of North Texas](https://www.unt.edu/index.
 
 ```javascript
 class Details {
-  constructor(name, education, socials, personalDetails) {
+  constructor(name, education, socials) {
     this.name = "Leelakrishna Ravuri";
     this.location = "Denton, Texas";
-    this.educationLevel = "Masters at UNT"
+    this.education = "Masters at UNT"
     this.linkedIn = "leelakrishnaravuri"
     this.email = "email@krishnar.xyz";
     this.instagram = "krishhbyte";
