@@ -23,8 +23,7 @@
 
 <p align="center">
   <a href="https://github.com/LeelaKrishna-R/Dynamic-Trivia-Content-Generation" target="_blank">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=LeelaKrishna-R&repo=Dynamic-Trivia-Content-Generation&theme=gruvbox&hide_border=true&bg_color=282828" alt="Dynamic-Trivia-Content-Generation" />
-  </a>
+    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=LeelaKrishna-R&repo=Dynamic-Trivia-Content-Generation&theme=gruvbox&hide_border=true&hide=issues&bg_color=282828" alt="Trivia Game using Prolog" />
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeelaKrishna-R&layout=compact&hide_border=true&theme=gruvbox&bg_color=282828&langs_count=6&hide=jupyter%20notebook,tex,css,php" alt="Top Languages" />
 </p>
 
