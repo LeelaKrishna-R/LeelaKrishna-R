@@ -10,11 +10,7 @@
 <p align="left">
   <img align="right" src="https://github.com/LeelaKrishna-R/LeelaKrishna-R/blob/master/catImg.png" alt="Profile Image" width="250" style="border-radius: 50%;"/>
   
-- 🎓 Master’s student in **Artificial Intelligence, University of North Texas**  
-- 🔌 Background in **Electronics & Communication Engineering** (B.Tech)  
-- 💻 Passionate **developer and problem solver**, exploring modern technologies  
-- 🤖 Interests: **Artificial Intelligence, Machine Learning, System Integration, Full-stack Development, Discord Bots**  
-- ⚡ Motivated by building solutions and continuously improving technical skills  
+I am a Master’s student in Artificial Intelligence at the University of North Texas, with a background in Electronics and Communication Engineering. My journey into technology has been shaped by curiosity and a self-driven approach to learning modern programming and development practices. I am deeply interested in artificial intelligence, machine learning, full-stack development, system integration, and building scalable applications such as Discord bots. Coding for me is both a craft and a passion, and I find motivation in solving complex problems, refining solutions, and continuously expanding my technical expertise.
 </p>
 
 ---
@@ -23,52 +19,52 @@
 
 ### Core Proficiency
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-282828?style=for-the-badge&logo=javascript&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/C-282828?style=for-the-badge&logo=c&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/Redis-282828?style=for-the-badge&logo=redis&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/JavaScript-282828?style=for-the-badge&logo=javascript&logoColor=bd93f9" />
+  <img src="https://img.shields.io/badge/C-282828?style=for-the-badge&logo=c&logoColor=bd93f9" />
+  <img src="https://img.shields.io/badge/Redis-282828?style=for-the-badge&logo=redis&logoColor=bd93f9" />
 </p>
 
 ### Advanced Expertise
 <p>
-  <img src="https://img.shields.io/badge/MongoDB-282828?style=for-the-badge&logo=mongodb&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/SQL-282828?style=for-the-badge&logo=sqlite&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/CSS-282828?style=for-the-badge&logo=css3&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/Markdown-282828?style=for-the-badge&logo=markdown&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/HTML-282828?style=for-the-badge&logo=html5&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/MongoDB-282828?style=for-the-badge&logo=mongodb&logoColor=bd93f9" />
+  <img src="https://img.shields.io/badge/SQL-282828?style=for-the-badge&logo=sqlite&logoColor=bd93f9" />
+  <img src="https://img.shields.io/badge/CSS-282828?style=for-the-badge&logo=css3&logoColor=bd93f9" />
+  <img src="https://img.shields.io/badge/Markdown-282828?style=for-the-badge&logo=markdown&logoColor=bd93f9" />
+  <img src="https://img.shields.io/badge/HTML-282828?style=for-the-badge&logo=html5&logoColor=bd93f9" />
 </p>
 
 ### Working Knowledge
 <p>
-  <img src="https://img.shields.io/badge/Python-282828?style=for-the-badge&logo=python&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/React-282828?style=for-the-badge&logo=react&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/PostgreSQL-282828?style=for-the-badge&logo=postgresql&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Python-282828?style=for-the-badge&logo=python&logoColor=bd93f9" />
+  <img src="https://img.shields.io/badge/React-282828?style=for-the-badge&logo=react&logoColor=bd93f9" />
+  <img src="https://img.shields.io/badge/PostgreSQL-282828?style=for-the-badge&logo=postgresql&logoColor=bd93f9" />
 </p>
 
 ### Familiarity
 <p>
-  <img src="https://img.shields.io/badge/Rust-282828?style=for-the-badge&logo=rust&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/Python-282828?style=for-the-badge&logo=python&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/Vanilla%20JS-282828?style=for-the-badge&logo=javascript&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/Vue.js-282828?style=for-the-badge&logo=vue.js&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/Angular-282828?style=for-the-badge&logo=angular&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Rust-282828?style=for-the-badge&logo=rust&logoColor=bd93f9" />
+  <img src="https://img.shields.io/badge/Python-282828?style=for-the-badge&logo=python&logoColor=bd93f9" />
+  <img src="https://img.shields.io/badge/Vanilla%20JS-282828?style=for-the-badge&logo=javascript&logoColor=bd93f9" />
+  <img src="https://img.shields.io/badge/Vue.js-282828?style=for-the-badge&logo=vue.js&logoColor=bd93f9" />
+  <img src="https://img.shields.io/badge/Angular-282828?style=for-the-badge&logo=angular&logoColor=bd93f9" />
 </p>
 
 ### Operating Environments
 <p>
-  <img src="https://img.shields.io/badge/Windows-282828?style=for-the-badge&logo=windows&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/Linux-282828?style=for-the-badge&logo=linux&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/macOS-282828?style=for-the-badge&logo=apple&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/Debian-282828?style=for-the-badge&logo=debian&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Windows-282828?style=for-the-badge&logo=windows&logoColor=bd93f9" />
+  <img src="https://img.shields.io/badge/Linux-282828?style=for-the-badge&logo=linux&logoColor=bd93f9" />
+  <img src="https://img.shields.io/badge/macOS-282828?style=for-the-badge&logo=apple&logoColor=bd93f9" />
+  <img src="https://img.shields.io/badge/Debian-282828?style=for-the-badge&logo=debian&logoColor=bd93f9" />
 </p>
 
 ### Development Tools
 <p>
-  <img src="https://img.shields.io/badge/Git-282828?style=for-the-badge&logo=git&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/GitHub-282828?style=for-the-badge&logo=github&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/VS%20Code-282828?style=for-the-badge&logo=visualstudiocode&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/WebStorm-282828?style=for-the-badge&logo=webstorm&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/Microsoft%20Office-282828?style=for-the-badge&logo=microsoftoffice&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/Excel-282828?style=for-the-badge&logo=microsoftexcel&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Git-282828?style=for-the-badge&logo=git&logoColor=bd93f9" />
+  <img src="https://img.shields.io/badge/GitHub-282828?style=for-the-badge&logo=github&logoColor=bd93f9" />
+  <img src="https://img.shields.io/badge/VS%20Code-282828?style=for-the-badge&logo=visualstudiocode&logoColor=bd93f9" />
+  <img src="https://img.shields.io/badge/WebStorm-282828?style=for-the-badge&logo=webstorm&logoColor=bd93f9" />
+  <img src="https://img.shields.io/badge/Microsoft%20Office-282828?style=for-the-badge&logo=microsoftoffice&logoColor=bd93f9" />
+  <img src="https://img.shields.io/badge/Excel-282828?style=for-the-badge&logo=microsoftexcel&logoColor=bd93f9" />
 </p>
 
 ---
@@ -99,15 +95,15 @@
 ## 🔗 Connect with Me
 <p align="left">
   <a href="https://www.linkedin.com/in/leelakrishnaravuri/" title="LinkedIn">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-282828?style=for-the-badge&logo=linkedin&logoColor=ffffff"/>
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-282828?style=for-the-badge&logo=linkedin&logoColor=bd93f9"/>
   </a>
   <a href="https://twitter.com/leelakr90136330" title="Twitter">
-    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-282828?style=for-the-badge&logo=twitter&logoColor=ffffff"/>
+    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-282828?style=for-the-badge&logo=twitter&logoColor=bd93f9"/>
   </a>
-  <a href="https://www.instagram.com/krishhbyte/" title="Instagram">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-282828?style=for-the-badge&logo=instagram&logoColor=ffffff"/>
+  <a href="https://www.instagram.com/waitngforyoueversince/" title="Instagram">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-282828?style=for-the-badge&logo=instagram&logoColor=bd93f9"/>
   </a>
   <a href="mailto:email@krishnar.xyz" title="Email">
-    <img alt="Email" src="https://img.shields.io/badge/Email-282828?style=for-the-badge&logo=gmail&logoColor=ffffff"/>
+    <img alt="Email" src="https://img.shields.io/badge/Email-282828?style=for-the-badge&logo=gmail&logoColor=bd93f9"/>
   </a>
 </p>
